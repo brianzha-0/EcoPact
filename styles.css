@@ -1,6 +1,8 @@
 body, html {
     margin: 0;
     padding: 0;
+    overflow-x: hidden;
+    overflow-y: hidden;
 }
 
 nav {
@@ -100,4 +102,12 @@ h2 {
     font-weight: 900;
     font-style: normal;
     margin-left: 35px;
+}
+
+pre.leafery {
+    margin-left: 500px;
+}
+
+pre.trunk {
+    margin-left: 533px;
 }
