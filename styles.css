@@ -111,3 +111,10 @@ pre.leafery {
 pre.trunk {
     margin-left: 533px;
 }
+
+img.icon {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    transform: translate(-48.5px, -48.5px)
+}
